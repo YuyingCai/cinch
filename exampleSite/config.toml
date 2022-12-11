@@ -1,8 +1,8 @@
-baseURL = "http://localhost:1313/subdir"
-title = "Puppet"
+baseURL = "https://github.com/YuyingCai/cinch"
+title = "Yuying Cai"
 
-theme = "puppet"
-themesDir = "../.."
+theme = "academic"
+themesDir = ""
 
 copyright = ""
 paginate = 3
